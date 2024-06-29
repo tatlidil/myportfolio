@@ -16,7 +16,7 @@ const Home = () => {
 
     <HeaderSocials/>
 
-    <a href='https://drive.usercontent.google.com/u/0/uc?id=1RTHQWkxhVWzl__ogCAZT8A0sCW08ICD-&export=download' className='btn' download={"Onur's Resume"}>Download Onur's Resume</a>
+    <a href='https://drive.google.com/file/d/1RTHQWkxhVWzl__ogCAZT8A0sCW08ICD-/view' className='btn' download={"Onur's Resume"}>Download Onur's Resume</a>
 
     <ScrollDown/>
    </div>
